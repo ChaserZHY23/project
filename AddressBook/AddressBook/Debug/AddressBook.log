@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/11/4 22:22:31。
+     1>项目“E:\github\project\AddressBook\AddressBook\AddressBook.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt AddressBook.c
+         AddressBook.c
+     1>e:\github\project\addressbook\addressbook\addressbook.c(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\github\project\addressbook\addressbook\addressbook.c(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>e:\github\project\addressbook\addressbook\addressbook.c(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\github\project\addressbook\addressbook\addressbook.c(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>e:\github\project\addressbook\addressbook\addressbook.c(86): error C2059: 语法错误:“}”
+     1>已完成生成项目“E:\github\project\AddressBook\AddressBook\AddressBook.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26
